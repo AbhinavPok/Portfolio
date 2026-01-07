@@ -1,4 +1,5 @@
-# Portfolio## Abhinav Pokhrel  
+# Portfolio##
+Abhinav Pokhrel  
 Security Operations | SOC Automation | Cloud Monitoring
 
 Cybersecurity graduate with hands-on experience building security operations workflows across alert triage, phishing response, and cloud monitoring. Focused on improving detection quality, analyst efficiency, and incident response through automation and structured decision-making.
@@ -23,5 +24,7 @@ Cybersecurity graduate with hands-on experience building security operations wor
 Bachelor of Science — Cybersecurity and Information Assurance  
 Western Governors University
 
+Bachelors of Science — Network and Clound Engineering (enrolled)
+Western Governors University
 ### Contact
 LinkedIn: https://www.linkedin.com/in/abhinavpokhrel  
