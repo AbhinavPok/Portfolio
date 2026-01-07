@@ -24,7 +24,7 @@ Cybersecurity graduate with hands-on experience building security operations wor
 Bachelor of Science — Cybersecurity and Information Assurance  
 Western Governors University
 
-Bachelors of Science — Network and Clound Engineering (enrolled)
+Bachelors of Science — Network and Clound Engineering (enrolled)<br>
 Western Governors University
 ### Contact
 LinkedIn: https://www.linkedin.com/in/abhinavpokhrel  
