@@ -108,6 +108,6 @@ Western Governors University
 ## Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/abhinavpokhrel  
-- **GitHub:** https://github.com/AbhinavPok  
+
 
 ---
